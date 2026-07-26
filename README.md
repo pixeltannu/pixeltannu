@@ -16,7 +16,7 @@
 
 ## 🚀 What I'm Up To
 
-- 🎓 Pursuing **B.Sc. Computer Science** at GITA
+- 🎓 Pursuing **B-Tech Computer Science** at GITA
 - 💡 Started coding **after joining college** — and loving it!
 - ✅ I know **C, Java, HTML & CSS**
 - 🌱 Currently learning **JavaScript** (in progress!)
